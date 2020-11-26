@@ -1,0 +1,20 @@
+{
+    "name": "html5-css3snippets",
+    "displayName": "HTML5&CSS3snippets",
+    "description": "simple CSS frameworks and HTML snippets",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}

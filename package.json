@@ -4,6 +4,11 @@
     "description": "simple CSS frameworks and HTML snippets",
     "version": "1.0.0",
     "publisher": "terminal",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rubenshibu/terminal-HTML5CSS3",
+    },
+    "icon": "icon.png", 
     "engines": {
         "vscode": "^1.51.0"
     },

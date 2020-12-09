@@ -1,6 +1,6 @@
 {
     "Bootstrap 4 Started Template":{
-        "prefix": "",
+        "prefix": "bhs",
         "body": [
             "<!DOCTYPE html>",
             "<html lang=\"en\">",
@@ -15,6 +15,7 @@
     
             "</body>",
             "</html>",
-        ]
+        ],
+        "description": "Creates Bootstrap 4 Starter templete with html"
     }
-},
+}

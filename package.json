@@ -2,7 +2,8 @@
     "name": "html5-css3snippets",
     "displayName": "HTML5&CSS3snippets",
     "description": "simple CSS frameworks and HTML snippets",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "terminal",
     "engines": {
         "vscode": "^1.51.0"
     },
@@ -15,6 +16,15 @@
                 "language": "html",
                 "path": "./snippets/snippets.code-snippets"
             }
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.code-snippets"
+            }
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            }
+
         ]
     }
 }
